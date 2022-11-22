@@ -41,7 +41,7 @@
                 {
                 e.target.submit();
                  }
-                else 
+                else
                 {
             let mdpError = document.createElement("p");
             let fieldset3 = document.querySelector("form:first-of-type fieldset:nth-of-type(3)");
